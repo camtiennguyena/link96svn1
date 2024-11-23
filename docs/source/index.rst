@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+96s.VN - Trang tin tức giải trí và tư vấn tiêu dùng uy tín
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`96s.VN <https://96s.vn/>`_ - Cổng thông tin giải trí và tiêu dùng hàng đầu Việt Nam. Chúng tôi cập nhật liên tục những tin tức nóng hổi về sao, phim, nhạc, cùng những bài viết tư vấn chuyên sâu về các sản phẩm, dịch vụ. Với 96s.VN, bạn sẽ không bỏ lỡ bất kỳ xu hướng nào. Đến với chúng tôi để khám phá thế giới giải trí đa sắc màu và đưa ra quyết định mua sắm thông minh. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 28 P.Khương Trung, Khương Đình, Thanh Xuân, Hà Nội 11487, Việt Nam
 
-   This project is under active development.
+Phone: 0395181160. 
 
-Contents
---------
+Email: info@96s.vn. 
 
-.. toctree::
+Website: https://96s.vn/ 
 
-   usage
-   api
+#96s #tintuc #giaitri #tieudung#96s #tintucgiaitri #tuvantieuthu #uytin
